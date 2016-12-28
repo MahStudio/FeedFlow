@@ -1,0 +1,28 @@
+﻿<ArrayOfArrayOfstring xmlns="http://schemas.microsoft.com/2003/10/Serialization/Arrays" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+  <ArrayOfstring>
+    <string>Official Microsoft Blog</string>
+    <string>http://blogs.microsoft.com/feed</string>
+  </ArrayOfstring>
+      <ArrayOfstring>
+        <string>Winphone.ir</string>
+        <string>http://winphone.ir/feed</string>
+    </ArrayOfstring>
+  <ArrayOfstring>
+        <string>Zoomit.ir</string>
+        <string>http://www.zoomit.ir/feed</string>
+    </ArrayOfstring>
+  <ArrayOfstring>
+    <string>WinBeta</string>
+    <string>http://www.winbeta.org/feed</string>
+  </ArrayOfstring>
+      
+    <ArrayOfstring>
+        <string>Windows Blog</string>
+        <string>http://blogs.windows.com/feed</string>
+    </ArrayOfstring>
+    
+   
+    
+    
+    
+</ArrayOfArrayOfstring>
